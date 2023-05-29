@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/structure": "off",
+    "highest-available-document-mode": "off",
+    "no-inline-styles": "off"
+  }
+}
